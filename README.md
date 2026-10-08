@@ -11,7 +11,7 @@ I build scalable web applications, backend systems, and developer-focused produc
 <a href="https://github.com/itsjeet04">
   <img src="https://img.shields.io/badge/GitHub-itsjeet04-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sirjanjeetsingh2004)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 

@@ -51,7 +51,7 @@ I enjoy turning ideas into **real, scalable software** — from frontend interfa
 ### Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
 </p>
 
 ---
